@@ -4,19 +4,15 @@
   need_reply: false
   auto_retry_time: 
   folder: Admin Commands
-
-  <<ANSWER
-
-  ANSWER
+  answer: 
   keyboard: 
   aliases: admin menu, 📲 administracion 📲
 CMD*/
 
 var admin = user.telegramid
 
-if (admin == 1290520197) {
+if (admin == 1691842602) {
   Bot.runCommand("/itsmypasssssssbsjdjdvsjsjsvdhiddjlabacs")
 } else {
   Bot.runCommand("OpenHome")
 }
-

@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: Admi2
-  answer: Envia msj al canal.. 
+  answer: Envia msj al canal..
   keyboard: 
   aliases: 
 CMD*/
@@ -22,4 +22,3 @@ if (admin == 1290520197) {
 } else {
   Bot.sendMessage("You are not Admin!")
 }
-

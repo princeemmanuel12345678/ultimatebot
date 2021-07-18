@@ -28,4 +28,3 @@ if (balance.value() < 1) {
   )
 }
 Bot.runCommand("/complete")
-

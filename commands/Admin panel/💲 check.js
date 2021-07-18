@@ -20,4 +20,3 @@ if (admin == 1290520197) {
 } else {
   Bot.sendMessage("😜 Respeta!! No eres admi XD")
 }
-

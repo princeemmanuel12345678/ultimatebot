@@ -14,4 +14,3 @@ Api.getChatMember({
   user_id: user.telegramid,
   on_result: "/checkMember7"
 })
-

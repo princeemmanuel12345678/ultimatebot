@@ -1,5 +1,5 @@
 /*CMD
-  command: /live 
+  command: /live
   help: 
   need_reply: 
   auto_retry_time: 
@@ -8,8 +8,6 @@
   keyboard: 
   aliases: 📶 live
 CMD*/
-
-                                                                                                  
 
 var result = JSON.parse(data.content);
 

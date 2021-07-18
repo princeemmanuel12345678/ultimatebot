@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: Admin panel
-  answer: Send id 
+  answer: Send id
   keyboard: 
   aliases: 
 CMD*/
@@ -20,4 +20,3 @@ if (admin == 1290520197) {
 } else {
   Bot.sendMessage("😜 Respeta!! No eres admi XD")
 }
-

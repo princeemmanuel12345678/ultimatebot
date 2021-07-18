@@ -30,4 +30,3 @@ Bot.sendMessage(
     userPayment.value().toFixed(4) +
     " *TRX*"
 )
-

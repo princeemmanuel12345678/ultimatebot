@@ -10,4 +10,3 @@
 CMD*/
 
 Bot.runCommand("OpenHome")
-

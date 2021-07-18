@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: Admin panel
-  answer: Send monto 
+  answer: Send monto
   keyboard: 
   aliases: 
 CMD*/
@@ -16,4 +16,3 @@ res.add(parseFloat(amount))
 Bot.sendMessage(
   "*Balance cambiado* \n👤 User: " + tgid + "\n💰 Amount:" + amount
 )
-

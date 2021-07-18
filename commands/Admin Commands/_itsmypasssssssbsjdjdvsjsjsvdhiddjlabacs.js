@@ -17,4 +17,3 @@ if (message == "PhoenixAdmin") {
 } else {
   Bot.sendMessage("🙄 Clave Incorrecta")
 }
-

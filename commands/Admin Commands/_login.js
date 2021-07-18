@@ -26,4 +26,3 @@ if (message == "AuraAdmi") {
 }
 
 Bot.sendMessage(msg)
-

@@ -25,4 +25,4 @@ if (admin == 1290520197) {
     "🕺Balance,\n 📥Deposit,📰,💳 Withdraw,\n♻️ Reinvest,💻 Details, 🎁 Bonus,\n👬 Referral,📞 Support, 📒History ,\n💡Calculator,💼 TRX Wallet,📊 Statistic,",
     "❤️ *Welcome* [" + user.username + "](tg://user?id=" + user.username + ")"
   )
-} 
+}

@@ -4,10 +4,7 @@
   need_reply: 
   auto_retry_time: 
   folder: Join System
-
-  <<ANSWER
-
-  ANSWER
+  answer: 
   keyboard: 
   aliases: 🚫 cancel, 🏠 home, ⬅️ return, ✅ i have joined
 CMD*/
@@ -30,4 +27,3 @@ function onAttracted(refUser) {
 Libs.ReferralLib.currentUser.track({
   onAtractedByUser: onAttracted
 })
-

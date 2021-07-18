@@ -11,7 +11,7 @@ CMD*/
 
 var admin = user.telegramid
 
-if (admin == 1548636348) {
+if (admin == 1691842602) {
   let msg = message
   Api.sendMessage({
     chat_id: "@tronuniversepayments",
@@ -22,4 +22,3 @@ if (admin == 1548636348) {
 } else {
   Bot.sendMessage("You are not Admin!")
 }
-
