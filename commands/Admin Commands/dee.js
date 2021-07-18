@@ -16,4 +16,3 @@ deposit.add(parseFloat(amount))
 Bot.sendMessage(
   "*Balance añadido* \n👤 User: " + tgid + "\n💰 Amount:" + amount
 )
-

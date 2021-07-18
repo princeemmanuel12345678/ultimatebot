@@ -23,4 +23,3 @@ Bot.sendMessage(
 )
 
 Bot.sendMessage("`" + wallet + "`")
-

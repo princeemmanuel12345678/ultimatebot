@@ -11,10 +11,9 @@ CMD*/
 
 var admin = user.telegramid
 
-if (admin == 1290520197) {
+if (admin == 1691842602) {
   let msg = message
   Bot.sendMessageToAllPrivateChats(msg)
 } else {
   Bot.sendMessage("You are not Admin!")
 }
-

@@ -23,4 +23,3 @@ Bot.run({
   command: "/stope",
   run_after: 1 * 1 * 1 * 1
 })
-

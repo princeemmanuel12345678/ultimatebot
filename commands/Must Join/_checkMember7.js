@@ -18,4 +18,3 @@ if (user == "member" || user == "creator" || user == "administrator") {
 }
 
 Bot.setProperty("status", user, "text")
-

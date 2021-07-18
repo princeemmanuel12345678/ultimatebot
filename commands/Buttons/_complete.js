@@ -4,15 +4,10 @@
   need_reply: true
   auto_retry_time: 
   folder: Buttons
-
-  <<ANSWER
-
-  ANSWER
+  answer: 
   keyboard: 
   aliases: 
 CMD*/
-
-                                                                                                                    
 
 var result = JSON.parse(data.content);
 var TRX = result.market_data.current_price.usd

@@ -28,5 +28,3 @@ Bot.sendMessage(
     profit.toFixed(8) +
     " TRX"
 )
-
-

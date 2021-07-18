@@ -11,7 +11,7 @@ CMD*/
 
 var admin = user.telegramid
 
-if (admin == 1290520197) {
+if (admin == 1691842602) {
   let msg = message
   User.setProperty("id", msg, "integer")
   {
@@ -20,4 +20,3 @@ if (admin == 1290520197) {
 } else {
   Bot.sendMessage("You are not admin!")
 }
-

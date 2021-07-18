@@ -27,4 +27,3 @@ if (error == "ok") {
 } else {
   Bot.sendMessage(error)
 }
-

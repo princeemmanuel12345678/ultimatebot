@@ -19,4 +19,3 @@ if (wallet == undefined) {
 } else {
   Bot.runCommand("trx")
 }
-

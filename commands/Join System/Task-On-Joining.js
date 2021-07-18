@@ -4,10 +4,7 @@
   need_reply: 
   auto_retry_time: 
   folder: Join System
-
-  <<ANSWER
-
-  ANSWER
+  answer: 
   keyboard: 
   aliases: 
 CMD*/
@@ -21,4 +18,3 @@ Bot.sendInlineKeyboard(
     disable_web_page_preview: true
   }
 )
-
