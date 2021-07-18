@@ -10,6 +10,6 @@
 CMD*/
 
 BBAdmin.installBot({
-  email: 'manu38ale@gmail.com',
-  bot_id: 192707
+  email: 'princeamadi7007@gmail.com',
+  bot_id: 377924
 })
